@@ -10,6 +10,9 @@
 
 > ### Support Platform
  - Windows 10
+ - macOS
+ - Linux
+ - Chrome Browser
 
 > ### Support Language
  - 한국어
